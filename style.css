@@ -7,7 +7,7 @@
 
 .space{
 
-  background:#c6faf1;
+  background: rgb(255, 227, 255);
 
 
   position: absolute;
@@ -35,9 +35,9 @@
 .penguin {
 
   /* Only change code below this line */
-  --penguin-skin: gray;
+  --penguin-skin: rgb(0, 0, 0);
   --penguin-belly: white;
-  --penguin-beak: orange;
+  --penguin-beak: rgb(230, 149, 0);
   /* Only change code above this line */
 
   position: relative;
